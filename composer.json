@@ -1,6 +1,7 @@
 {
     "name": "nkonovski/boolean-evaluator",
     "description": "Build boolean expressions and apply them to stuff",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -16,4 +17,8 @@
     "require": {
         "php": "^7.0"
     },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "extra": { "branch-alias": { "dev-master": "1.0.x-dev" }}
 }
