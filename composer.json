@@ -9,6 +9,7 @@
             "homepage": "https://github.com/davidrjonas"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "DavidRJonas\\BooleanEvaluator\\": "src"
